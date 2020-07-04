@@ -1,4 +1,3 @@
-# my-list
+# My Lists
 
-##React
-[https://glitch.com/glimmer/post/react-starter-kit/] (Glitch React)
+Coming Soon
