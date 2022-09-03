@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **OPs**
 
-- 💬 Ask me about **react, NodeJs, Firebase**
+- 💬 Ask me about **react, NodeJs, Firebase, MongoDB**
 
 - 📫 How to reach me **nidhinbm.bm@gmail.com**
 
