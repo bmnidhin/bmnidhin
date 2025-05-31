@@ -7,15 +7,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=bmnidhin&column=7&margin-w=15&margin-h=15" alt="bmnidhin" /></a> </p>
 
-- 🔭 I’m currently working on **[Secret Project X 🐱‍👤]**
-
-- 🌱 I’m currently learning **OPs**
-
-- 💬 Ask me about **react, NodeJs, Firebase**
+- 💬 Ask me about **react, k8s **
 
 - 📫 How to reach me **nidhinbm.bm@gmail.com**
 
-- ⚡ Fun fact **Firebase uyir**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" width="100%">
